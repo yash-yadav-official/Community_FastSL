@@ -1,0 +1,7 @@
+pandas
+micom
+cobra
+tqdm
+notebook
+ipywidgets
+matplotlib
