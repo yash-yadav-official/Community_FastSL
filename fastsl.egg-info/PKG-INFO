@@ -1,0 +1,9 @@
+Metadata-Version: 2.4
+Name: fastsl
+Version: 0.1.0
+Summary: Fast-SL Synthetic Lethality Pipeline for Microbial Communities using MICOM
+Author: Yash Yadav
+Requires-Dist: pandas
+Requires-Dist: micom
+Requires-Dist: cobra
+Requires-Dist: notebook

@@ -1,0 +1,19 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "fastsl"
+version = "0.1.0"
+description = "Fast-SL Synthetic Lethality Pipeline for Microbial Communities using MICOM"
+authors = [{ name = "Yash Yadav" }]
+dependencies = [
+    "pandas",
+    "micom",
+    "cobra",
+    "notebook"
+]
+
+[tool.setuptools]
+packages = ["fastsl"]
+
