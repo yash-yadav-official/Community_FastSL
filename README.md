@@ -15,8 +15,8 @@ pip install -e .
 ```
 ## 📖 Interactive Tutorial
 We have provided a complete, step-by-step interactive tutorial for running an exhaustive screen between E. coli and Salmonella.
-You can access the jupyter notebook tutorial by running ```bash
-jupiter notebook ```in the terminal in the community_fastSL directory.
+You can access the jupyter notebook tutorial by running ```
+jupiter notebook```in the terminal in the community_fastSL directory.
 
 you can also just click the tutorial notebook in github to look into it. furthermore you can open the folder in vscode and use from there as well. 
 Use the tutorial as a template to work on the fastSL_workbench notebook.
