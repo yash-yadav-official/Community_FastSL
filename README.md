@@ -9,7 +9,7 @@ This tool performs exhaustive *in silico* Double Lethal (DL) knockouts across tw
 Clone this repository and install the package in editable mode:
 
 ```bash
-git clone [https://github.com/yourusername/Community_FastSL.git](https://github.com/yourusername/Community_FastSL.git)
+git clone [https://github.com/yash-yadav-official/Community_FastSL.git](https://github.com/yourusername/Community_FastSL.git)
 cd Community_FastSL
 pip install -e .
 ```
