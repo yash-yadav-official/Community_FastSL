@@ -12,9 +12,7 @@ Clone this repository and install the package in editable mode:
 git clone [https://github.com/yourusername/Community_FastSL.git](https://github.com/yourusername/Community_FastSL.git)
 cd Community_FastSL
 pip install -e .
-
+```
 ## 📖 Interactive Tutorial
 We have provided a complete, step-by-step interactive tutorial for running an exhaustive screen between E. coli and Salmonella.
-
-To view the tutorial, generate the data, and visualize the lethality graphs, please open the Jupyter Notebook located at:
-notebooks/Tutorial_Ecoli_Salmonella.ipynb
+You can access the jupyter notebook tutorial by running jupiter notebook in the terminal in the community_fastSL directory.
